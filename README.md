@@ -455,7 +455,7 @@ VLESS、Trojan、AnyTLS、Shadowsocks……
 
 | 需求 | 可以继续考虑 | 为什么 | 官网 |
 | --- | --- | --- | --- |
-| 小中流量、月付、多设备、希望客户端简单 | **速网云** | 有 100 / 250 / 350GB 月付、不限设备、自有客户端、VLESS / AnyTLS | [查看官网 →](https://suwangyun.com/) |
+| 小中流量、月付、多设备、希望客户端简单 | **速网云** | 有 100 / 250 / 350GB 月付、不限设备、自有客户端、VLESS / AnyTLS | [查看官网 →](https://suwangyun.top/) |
 | 500GB 以上甚至 TB 级流量 | **Just My Socks** | 套餐从 500GB 延伸到 1TB、5TB、10TB | [查看官网 →](https://justmysocks.net/) |
 | 重视在线 IP、连接限制和规则清晰度 | **WgetCloud** | 不同等级的在线 IP、并发连接和 Trojan 规则比较明确 | [查看官网 →](https://wgetcloud.ltd/) |
 | 特别在意更多国家和地区 | **TAG** | 地区覆盖方向突出，但购买前仍要确认当前套餐和具体规则 | [查看官网 →](https://tagss.pro/) |
@@ -470,7 +470,7 @@ VLESS、Trojan、AnyTLS、Shadowsocks……
 
 ### 官方入口
 
-- **速网云：** [https://suwangyun.com/](https://suwangyun.com/)
+- **速网云：** [https://suwangyun.top/](https://suwangyun.top/)
 - **Just My Socks：** [https://justmysocks.net/](https://justmysocks.net/)
 - **WgetCloud：** [https://wgetcloud.ltd/](https://wgetcloud.ltd/)
 - **TAG：** [https://tagss.pro/](https://tagss.pro/)
