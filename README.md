@@ -445,7 +445,7 @@ VLESS、Trojan、AnyTLS、Shadowsocks……
 
 不是因为纸面条件符合，就直接变成“第一名”。
 
-**官网：** [查看速网云 →](https://suwangyun.com/)
+**官网：** [查看速网云 →](https://suwangyun.top/)
 
 ---
 
